@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tedchan
-- 👀 I’m interested in Raspberry Pi, Linux
-- 🌱 I’m currently learning MS Power Platform
-- 💞️ I’m looking to collaborate on MS Power Platform
+- 👀 I’m interested in Agentic AI, Linux
+- 🌱 I’m currently researching on AI Memory
+- 💞️ I’m looking to collaborate on Agentic AI, GenAI and vibe coding projects
 - 📫 You can DM me on Slack: U02DB78N24V
 
 <!---
