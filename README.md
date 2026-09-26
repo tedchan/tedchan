@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tedchan, trained in AI through MIT and Cornell
-- 👀 I’m interested in Agentic AI multi-agent orchestration, AI architecture design patterns, and persistent AI meomor
+- 👀 I’m interested in Agentic AI multi-agent orchestration, AI architecture design patterns, and persistent AI memory
 - 🌱 I’m currently researching deeper into persistent AI memory frameworks, ontology and knowledge graph
 - 💞️ I’m looking to collaborate on Agentic AI projects, particularly on long term persistent AI memory
 - 📫 You can DM me on Discord: ted.chankt
